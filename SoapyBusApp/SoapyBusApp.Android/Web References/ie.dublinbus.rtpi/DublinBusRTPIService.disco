@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://rtpi.dublinbus.ie/DublinBusRTPIService.asmx?wsdl" docRef="http://rtpi.dublinbus.ie/DublinBusRTPIService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://rtpi.dublinbus.ie/DublinBusRTPIService.asmx" xmlns:q1="http://dublinbus.ie/" binding="q1:DublinBusRTPIServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://rtpi.dublinbus.ie/DublinBusRTPIService.asmx" xmlns:q2="http://dublinbus.ie/" binding="q2:DublinBusRTPIServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
