@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapyBusApp.Android", "SoapyBusApp\SoapyBusApp.Android\SoapyBusApp.Android.csproj", "{AE64C3EC-2476-468C-BC27-092777A7DE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapyBusApp", "SoapyBusApp\SoapyBusApp\SoapyBusApp.csproj", "{E4B57C77-B610-45EB-A4BB-DA74AF262133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE64C3EC-2476-468C-BC27-092777A7DE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE64C3EC-2476-468C-BC27-092777A7DE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE64C3EC-2476-468C-BC27-092777A7DE53}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AE64C3EC-2476-468C-BC27-092777A7DE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE64C3EC-2476-468C-BC27-092777A7DE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE64C3EC-2476-468C-BC27-092777A7DE53}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E4B57C77-B610-45EB-A4BB-DA74AF262133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B57C77-B610-45EB-A4BB-DA74AF262133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B57C77-B610-45EB-A4BB-DA74AF262133}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E4B57C77-B610-45EB-A4BB-DA74AF262133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B57C77-B610-45EB-A4BB-DA74AF262133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B57C77-B610-45EB-A4BB-DA74AF262133}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5421A8-5BA7-44A0-8BA5-C715A15B6AF6}
+	EndGlobalSection
+EndGlobal
